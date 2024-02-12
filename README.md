@@ -1,4 +1,5 @@
-### Hi there 👋
+# <h1 align = "center" padding-bottom = 10 >Hi there 👋 This is <a href = 'https://www.linkedin.com/in/pragadeesh-nehru-a26040257/' >Giriharan</a>! 😎</h1>
+## Just a guy who loves to AI&ML🧑🏼‍💻☕
 
 <!--
 **giriharan007/giriharan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
