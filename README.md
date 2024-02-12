@@ -1,7 +1,7 @@
-# <h1 align = "center" padding-bottom = 10 >Hi there 👋 This is <a href = 'https://www.linkedin.com/in/pragadeesh-nehru-a26040257/' >Giriharan</a>! 😎</h1>
-## Just a guy who loves to AI&ML🧑🏼‍💻☕
+# <h1 align = "center" padding-bottom = 10 >Hi there 👋 This is <a href = 'https://www.linkedin.com/in/giriharan-s-6044a3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' >Giriharan</a>! 😎</h1>
+## Just a guy who loves AI&ML🧑🏼‍💻☕
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%23E1306C)](https://www.instagram.com/i_am_antagonist_lover_?igsh=MXgza203emVxZDBlNA==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%230077B5)](https://www.linkedin.com/in/pragadeesh-nehru-a26040257/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%230077B5)](https://www.linkedin.com/in/giriharan-s-6044a3258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 <!--
