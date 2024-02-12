@@ -1,5 +1,8 @@
 # <h1 align = "center" padding-bottom = 10 >Hi there 👋 This is <a href = 'https://www.linkedin.com/in/pragadeesh-nehru-a26040257/' >Giriharan</a>! 😎</h1>
 ## Just a guy who loves to AI&ML🧑🏼‍💻☕
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%23E1306C)](https://www.instagram.com/i_am_antagonist_lover_?igsh=MXgza203emVxZDBlNA==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=instagram&logoColor=%23FFFFFF&labelColor=%230077B5)](https://www.linkedin.com/in/pragadeesh-nehru-a26040257/)
+
 
 <!--
 **giriharan007/giriharan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
