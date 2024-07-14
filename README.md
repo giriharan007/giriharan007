@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>Leetcode Stats</h2>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/giriharan007?ext=activity)
 
 <h2>Technology Stack</h2>
 #### :hammer_and_wrench: Languages and Tools :
